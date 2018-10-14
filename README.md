@@ -1,2 +1,2 @@
 # GIMP-Scripts
-Collection of Script-Fu scripts I've written for GIMP
+Collection of helpful Script-Fu scripts for GIMP
